@@ -1,3 +1,6 @@
 [submodule "mcp_weather_server"]
 	path = mcp_weather_server
 	url = https://github.com/isdaniel/mcp_weather_server
+[submodule "mongodb-mcp-server"]
+	path = mongodb-mcp-server
+	url = https://github.com/kiliczsh/mcp-mongo-server
