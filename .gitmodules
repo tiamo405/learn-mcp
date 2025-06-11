@@ -1,0 +1,3 @@
+[submodule "mcp_weather_server"]
+	path = mcp_weather_server
+	url = https://github.com/isdaniel/mcp_weather_server
